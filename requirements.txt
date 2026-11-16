@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+python-dotenv>=1,<2
+pypdf>=5,<7
+langchain-community>=0.3,<0.5
+langchain-google-genai>=2,<5
+faiss-cpu>=1.9,<2
